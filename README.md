@@ -1,6 +1,6 @@
 
 ### Date created
-15 August 2026 - project created , also attached README file
+15 August 2026 - Project created , also attached README file.
 
 ### Project Title
 Explore US Bikeshare Data.
