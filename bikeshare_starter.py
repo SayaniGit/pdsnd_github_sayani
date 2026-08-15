@@ -14,9 +14,9 @@ def get_filters():
     Ask the user to specify a city, month, and day to analyze.
 
     Returns:
-        city: Name of the city to analyze.
-        month: Month to filter by, or "all" for no month filter.
-        day: Day of the week to filter by, or "all" for no day filter.
+        city: Enter Name of the city to analyze.
+        month: Enter Month to filter by, or "all" for no month filter.
+        day: Enter Day of the week to filter by, or "all" for no day filter.
     """
     print("Hello! Let's explore some US bikeshare data!")
 
